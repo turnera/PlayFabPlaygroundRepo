@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    //This is the WRONG GameManager
+    //This is the Correct GameManager
 }

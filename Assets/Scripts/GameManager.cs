@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
-{
-    //This is the Correct GameManager
+{    
+    private void GameDebug(string message)
+    {
+        Debug.Log(message);
+    }
 }
+
